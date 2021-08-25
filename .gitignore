@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#lso edit
+./logs
+PREPARE_DATASETS.md
+*.pth
+./cityscapes
+
+
 # Distribution / packaging
 .Python
 build/
