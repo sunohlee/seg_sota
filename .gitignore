@@ -11,6 +11,7 @@ __pycache__/
 PREPARE_DATASETS.md
 *.pth
 ./cityscapes
+./apex
 
 
 # Distribution / packaging
